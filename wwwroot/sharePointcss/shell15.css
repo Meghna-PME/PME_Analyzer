@@ -1,0 +1,1435 @@
+.customScrollBar::-webkit-scrollbar {
+height: 18px;
+width: 18px;
+}
+.customScrollBar::-webkit-scrollbar:disabled {
+display: none;
+}
+.customScrollBar::-webkit-scrollbar-button {
+background-color: #fafafa;
+background-repeat: no-repeat;
+cursor: pointer;
+}
+.customScrollBar::-webkit-scrollbar-button:horizontal:increment,.customScrollBar::-webkit-scrollbar-button:horizontal:decrement,.customScrollBar::-webkit-scrollbar-button:horizontal:increment:hover,.customScrollBar::-webkit-scrollbar-button:horizontal:decrement:hover,.customScrollBar::-webkit-scrollbar-button:vertical:increment,.customScrollBar::-webkit-scrollbar-button:vertical:decrement,.customScrollBar::-webkit-scrollbar-button:vertical:increment:hover,.customScrollBar::-webkit-scrollbar-button:vertical:decrement:hover {
+background-position: center;
+height: 18px;
+width: 18px;
+}
+.customScrollBarLight::-webkit-scrollbar-button {
+display: none;
+}
+.customScrollBar::-webkit-scrollbar-track {
+background-color: #fafafa;
+}
+.customScrollBarLight::-webkit-scrollbar-track {
+background-color: #0072c6;
+}
+.customScrollBar::-webkit-scrollbar-thumb {
+border-radius: 9px;
+border: solid 6px #fafafa;
+background-color: #cdd4d4;
+}
+.customScrollBarLight::-webkit-scrollbar-thumb {
+border-color: #0072c6;
+background-color: #95b1c1;
+}
+.customScrollBar::-webkit-scrollbar-thumb:vertical {
+min-height: 50px;
+}
+.customScrollBar::-webkit-scrollbar-thumb:horizontal {
+min-width: 50px;
+}
+.customScrollBar::-webkit-scrollbar-thumb:hover {
+border-radius: 9px;
+border: solid 6px #fafafa;
+background-color: #98a3a6;
+}
+.customScrollBar::-webkit-scrollbar-corner {
+background-color: #fafafa;
+}
+.nativeScrollInertia {
+-webkit-overflow-scrolling: touch;
+}
+.csimg {
+display: inline-block;
+overflow: hidden;
+}
+.o365button {
+color: #333;
+font: 14px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+background: transparent;
+border: 0;
+padding: 0;
+cursor: pointer!important;
+}
+.o365button:disabled {
+cursor: default!important;
+}
+.o365buttonRegular {
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+}
+.o365buttonHovered {
+color: #000;
+}
+.o365buttonDisabled {
+color: #98a3a6;
+}
+.o365buttonOutlined {
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+padding-right: 11px;
+padding-left: 11px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+.o365buttonOutlined .o365buttonLabel {
+display: inline-block;
+}
+.o365buttonOutlined {
+height: 22px;
+}
+.o365buttonOutlined .o365buttonLabel {
+height: 18px;
+}
+.o365buttonOutlinedRest {
+color: #333;
+background-color: #f8f8f8;
+border: 1px solid #98a3a6;
+}
+.o365buttonOutlinedPressed {
+color: #fff;
+background-color: #2a8dd4;
+border: 1px solid #2a8dd4;
+}
+.o365buttonOutlinedHovered {
+color: #000;
+background-color: #dfedfa;
+border: 1px solid #2a8dd4;
+}
+.o365buttonOutlinedDisabled {
+color: #98a3a6;
+background-color: #fdfdfd;
+border: 1px solid #e0e1e1;
+}
+button::-moz-focus-inner {
+border: 0;
+padding: 0;
+}
+.popupShadow {
+box-shadow: 0 0 20px rgba(0,0,0,.4);
+}
+.popupShadow {
+border: 1px solid #dedede;
+}
+.contextMenuDropShadow {
+box-shadow: 0 0 7px rgba(0,0,0,.4);
+}
+.contextMenuDropShadow {
+border: 1px solid #dedede;
+}
+.modalBackground {
+background-color: #fff;
+height: 100%;
+width: 100%;
+}
+.modalBackground {
+opacity: .65;
+filter: Alpha(opacity=65);
+}
+.clearModalBackground {
+background-color: #fff;
+opacity: 0;
+filter: Alpha(opacity=0);
+height: 100%;
+width: 100%;
+}
+.removeFocusOutline *:focus {
+outline: none;
+}
+.addFocusOutline button:focus {
+outline: dotted 1px;
+}
+._o365c_2 {
+margin-left: 4px;
+}
+._o365c_3,._o365c_4 {
+vertical-align: middle;
+}
+._o365c_5 {
+min-width: 150px;
+outline: 0;
+overflow-y: auto;
+}
+._o365c_6 {
+outline: 0;
+}
+._o365c_7 {
+position: relative;
+}
+._o365c_8 {
+margin-top: -1px;
+margin-right: -1px;
+margin-bottom: -4px;
+margin-left: 0;
+}
+._o365c_9 {
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+text-align: left;
+padding-right: 10px;
+display: block;
+}
+._o365c_a {
+font: 11px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+color: #0072c6;
+text-align: left;
+padding-right: 10px;
+padding-left: 5px;
+display: block;
+}
+._o365c_b ._o365c_9 {
+padding-left: 20px;
+}
+._o365c_c {
+margin-left: 16px;
+}
+._o365c_d {
+display: inline-block;
+}
+._o365c_e {
+margin-right: 16px;
+display: inline-block;
+}
+._o365c_f {
+margin-right: 3px;
+vertical-align: middle;
+}
+._o365c_g {
+margin-right: 36px;
+}
+._o365c_h {
+color: #333;
+}
+._o365c_i {
+color: #98a3a6;
+}
+._o365c_j {
+display: none;
+}
+._o365c_k {
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+background-color: #fff;
+}
+._o365c_l {
+position: absolute;
+right: 5px;
+top: 6px;
+}
+._o365c_m {
+background-color: #dfedfa;
+}
+._o365c_n {
+text-decoration: none;
+}
+._o365c_o {
+width: 100%;
+height: 0;
+margin: 3px 0;
+border: 1px solid #eaecee;
+}
+._o365c_9 {
+padding-top: 4px;
+padding-right: 0;
+padding-bottom: 5px;
+padding-left: 5px;
+}
+._o365c_a {
+padding-top: 4px;
+padding-right: 0;
+padding-bottom: 5px;
+padding-left: 20px;
+}
+._o365c_p {
+overflow-x: hidden;
+max-height: 561px;
+}
+._o365c_5 {
+padding-top: 3px;
+padding-right: 0;
+padding-bottom: 3px;
+padding-left: 0;
+white-space: nowrap;
+}
+._o365c_r {
+width: 100%;
+white-space: nowrap;
+overflow: visible;
+text-align: left;
+position: relative;
+border: 1px solid #98a3a6;
+}
+._o365c_s {
+padding-left: 6px;
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+}
+._o365c_t {
+background: #fff;
+color: #333;
+}
+._o365c_u {
+background-color: #dfedfa;
+}
+._o365c_v {
+border: 1px solid #ddd;
+color: #98a3a6;
+background-color: #fdfdfd;
+}
+._o365c_w,._o365c_x {
+border: 1px solid #666;
+color: #000;
+background-color: #fdfdfd;
+}
+._o365c_y {
+position: absolute;
+top: 0;
+right: 0;
+background: #fff;
+width: 10px;
+bottom: 0;
+padding: 0 5px;
+}
+._o365c_t>._o365c_y {
+background: #fff;
+}
+._o365c_v>._o365c_y {
+background-color: #fdfdfd;
+}
+._o365c_w>._o365c_y,._o365c_x>._o365c_y {
+background-color: #fdfdfd;
+}
+._o365c_z {
+margin-top: 5px;
+}
+._o365c_A {
+min-width: 150px;
+outline: 0;
+overflow-y: auto;
+}
+._o365c_A div {
+outline: 0;
+}
+._o365c_B {
+position: relative;
+}
+._o365c_C {
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+background-color: #fff;
+}
+._o365c_D {
+background-color: #dfedfa;
+}
+._o365c_E {
+margin-left: 16px;
+}
+._o365c_F {
+display: inline-block;
+}
+._o365c_G {
+margin-right: 16px;
+display: inline-block;
+}
+._o365c_H {
+margin-top: -1px;
+margin-right: -1px;
+margin-bottom: -4px;
+margin-left: 0;
+}
+._o365c_I {
+font: 12px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+text-align: left;
+padding-right: 10px;
+display: block;
+}
+._o365c_J ._o365c_I {
+padding-left: 20px;
+}
+._o365c_K {
+color: #333;
+}
+._o365c_L {
+color: #98a3a6;
+}
+._o365c_r {
+height: 22px;
+}
+._o365c_I {
+padding-top: 4px;
+padding-right: 0;
+padding-bottom: 5px;
+padding-left: 5px;
+}
+._o365c_M {
+color: #333;
+}
+._o365c_w,._o365c_x {
+color: #000;
+}
+._o365c_N {
+overflow-x: hidden;
+max-height: 561px;
+}
+._o365c_A {
+padding-top: 3px;
+padding-right: 0;
+padding-bottom: 3px;
+padding-left: 0;
+white-space: nowrap;
+}
+.wf {
+speak: none;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+-webkit-font-smoothing: antialiased;
+vertical-align: middle;
+width: auto;
+height: auto;
+display: inline-block;
+}
+.wf-size-x16-circle {
+height: 16px;
+width: 16px;
+font-size: 12px;
+}
+.wf-size-x22-circle {
+height: 22px;
+width: 22px;
+font-size: 15px;
+}
+.wf-size-x24-circle {
+height: 24px;
+width: 24px;
+font-size: 18px;
+}
+.wf-size-x32-circle {
+height: 32px;
+width: 32px;
+font-size: 24px;
+}
+.wf-size-x35-circle {
+height: 35px;
+width: 35px;
+font-size: 26px;
+}
+.wf-size-x48-circle {
+height: 48px;
+width: 48px;
+font-size: 36px;
+}
+.wf-size-x64-circle {
+height: 64px;
+width: 64px;
+font-size: 48px;
+}
+.wf-size-x16 {
+font-size: 16px;
+}
+.wf-size-x22 {
+font-size: 22px;
+}
+.wf-size-x24 {
+font-size: 24px;
+}
+.wf-size-x32 {
+font-size: 32px;
+}
+.wf-size-x35 {
+font-size: 35px;
+}
+.wf-size-x48 {
+font-size: 48px;
+}
+.wf-size-x64-circle {
+font-size: 64px;
+}
+/*
+**************** O365ShellCore.CSS **************************
+* NOTE 1: This file contains common CSS for common shell. Only add style here if it is needed by ShellCore controls
+* NOTE 2: If it is only needed by a control in ShellPlus, add it to ShellPlus.css instead.
+* NOTE 3: all styles need to have o365cs- prefix to avoid conflics with workload styles
+*/
+/* o365cs is a base CSS class to be used on all root common shell elements */
+.o365cs *
+{
+font-family: SegoeUI-Regular-final, "Segoe UI", Segoe, Tahoma, Helvetica, Arial, Sans-Serif;
+font-size: 12px;
+line-height: 19px;
+font-weight: normal;
+white-space: nowrap;
+}
+/*
+some workloads (e.g. O365 Portal) are setting min-width on all buttons
+overriding this rule for common shell
+*/
+.o365cs button
+{
+min-width: 0;
+}
+.o365cs-clear
+{
+clear: both;
+}
+.o365cs-display-none
+{
+/*
+TODO: is there a better solution without using !important?
+This style is applied dynamically in additional to other
+styles to toggle visibility. However the other styles are defined
+from stylesheets that are loaded later (like O365ShellPlus.css)
+so without !important they take precedence over this one
+*/
+display:none !important;
+}
+.o365cs-context-font
+{
+font: 19px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+}
+/*
+..._____   _                                 _     _    _                      _
+../ ____| | |                               | |   | |  | |                    | |
+.| (___   | |__     __ _   _ __    ___    __| |   | |__| |   ___    __ _    __| |   ___   _ __
+..\___ \  | '_ \   / _` | | '__|  / _ \  / _` |   |  __  |  / _ \  / _` |  / _` |  / _ \ | '__|
+..____) | | | | | | (_| | | |    |  __/ | (_| |   | |  | | |  __/ | (_| | | (_| | |  __/ | |
+.|_____/  |_| |_|  \__,_| |_|     \___|  \__,_|   |_|  |_|  \___|  \__,_|  \__,_|  \___| |_|
+*/
+.o365cs-nav-header
+{
+width: 100%;
+height: 30px;
+display: table;
+border-spacing: 0px;
+}
+.o365cs-nav-header .o365cs-nav-leftAlign
+{
+display: table-cell;
+vertical-align: middle;
+width: 100%;
+height: 100%;
+}
+.o365cs-nav-header .o365cs-nav-leftAlign > div
+{
+height: 100%; /* used to force parent height to 100% */
+}
+.o365cs-nav-header .o365cs-nav-branding,
+.o365cs-nav-header .o365cs-nav-tenantBranding
+{
+display: table-cell;
+font: 13px "Segoe UI WPC", "Segoe UI", Tahoma, "Microsoft Sans Serif", Verdana, sans-serif;
+padding-right: 4px;
+padding-bottom: 0px;
+padding-left: 8px;
+vertical-align: middle;
+height: 30px;
+}
+.o365cs-nav-header .o365cs-nav-tenantBranding
+{
+padding: 0px;
+overflow: hidden;
+max-width: 200px;
+vertical-align: middle;
+}
+.o365cs-nav-header .o365cs-nav-brandingLabel
+{
+display: inline-block;
+margin-top:8px;
+margin-left:20px;
+}
+.o365cs-nav-header .o365cs-nav-brandingLeftText,
+.o365cs-nav-header .o365cs-nav-brandingRightText
+{
+display:inline-block;
+width: auto;
+padding:0px;
+vertical-align: middle;
+font-size: 10px;
+}
+.o365cs-nav-header .o365cs-nav-brandingLeftText
+{
+margin-left: 0px;
+margin-right: 5px;
+}
+.o365cs-nav-header .o365cs-nav-brandingRightText
+{
+margin-right: 0px;
+margin-left: 5px;
+}
+.o365cs-nav-header .o365cs-nav-bposLogo
+{
+display: inline-block;
+padding-top: 6px;
+-webkit-text-stroke-width: .25px;
+white-space: nowrap;
+vertical-align: middle;
+}
+.o365cs-nav-header .o365cs-nav-rightAlign
+{
+display: table-cell;
+vertical-align: middle;
+white-space: nowrap;
+}
+.o365cs-nav-header .o365cs-nav-headerRegion
+{
+display: inline-block;
+vertical-align: top;
+}
+.o365cs-nav-header .o365cs-nav-notifications
+{
+display: inline-block;
+vertical-align: top;
+margin-right:9px;
+}
+.o365cs-nav-header .o365cs-nav-rightMenus
+{
+display: inline-block;
+vertical-align: top;
+}
+.o365cs-nav-header .o365cs-nav-rightSidePanel
+{
+padding-right:5px;
+}
+.o365cs-nav-header .o365cs-nav-O365LinksContainer
+{
+display: inline-block;
+white-space: nowrap;
+vertical-align: top;
+}
+.o365cs-nav-header .o365cs-nav-O365Links
+{
+display: inline-block;
+vertical-align: middle;
+}
+.o365cs-nav-header .o365cs-nav-O365LinksItem
+{
+display: inline-block;
+vertical-align: top;
+}
+.o365cs-nav-header .o365cs-nav-appsContainer
+{
+display: inline-block;
+vertical-align: middle;
+}
+.o365cs-nav-header .o365cs-nav-workloadLink
+{
+vertical-align: middle;
+text-decoration: none;
+display: inline-block;
+}
+.o365cs-nav-header .o365cs-nav-navItem,
+.o365cs-nav-header .o365cs-nav-navIcon
+{
+font: 13px "Segoe UI WPC", "Segoe UI", Tahoma, "Microsoft Sans Serif", Verdana, sans-serif;
+line-height: 28px;
+padding: 0px 8px;
+height: 30px;
+-webkit-font-smoothing: antialiased;
+min-width: 0px;
+/* borrowed from button */
+border: 0px;
+cursor: pointer;
+position: relative;
+}
+.o365cs-nav-header .o365cs-nav-navItem > span,
+.o365cs-nav-header .o365cs-nav-navIcon > span
+{
+text-align: center;
+}
+.o365cs-nav-header .o365cs-nav-itemDisabled
+{
+cursor: default !important;
+}
+.o365cs-nav-header .o365cs-nav-selectedNavItem,
+.o365cs-nav-header .o365cs-nav-selectedNavIcon
+{
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAeCAYAAAD+QjQzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADIGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjJCQTJDMEQyNkI3MTFFMTk0NTQ5NURDQzk0MUM0NDQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjJCQTJDMEUyNkI3MTFFMTk0NTQ5NURDQzk0MUM0NDQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpGMkJBMkMwQjI2QjcxMUUxOTQ1NDk1RENDOTQxQzQ0NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGMkJBMkMwQzI2QjcxMUUxOTQ1NDk1RENDOTQxQzQ0NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlkTjWEAAABiSURBVDhPhcrRCYRAEAVB8zCPS9F0zWBvBQW3KXCgPqZ52xjjE2MxFmMxFmMxFmMxFmMxFmMxFmMxFmMxFmMxFmMxFmMxFmMxFmMp7m3LMx3TOf1ebRldg+eWoQbP3cOx/QEFADIgCQLSlQAAAABJRU5ErkJggg==);
+background-repeat: no-repeat;
+background-position: center;
+}
+.o365cs-nav-headerContextMenu
+{
+border: 1px solid #DEDEDE;
+border-top: 0px;
+box-shadow: 3px 3px 6px -4px #BCBCBC,-3px 3px 6px -4px #BCBCBC;
+}
+.o365cs-nav-header .o365cs-nav-headerButton
+{
+height: 30px;
+display: inline-block;
+margin: 0px;
+vertical-align: middle;
+min-width: 0px;
+/* borrowed from button */
+border: 0px;
+cursor: pointer;
+padding: 0px 3px;
+}
+.o365cs-nav-header .o365cs-nav-link
+{
+text-decoration: none;
+}
+.o365cs-nav-header .o365cs-nav-apps
+{
+padding-top: 9px;
+}
+.o365cs-nav-header .o365cs-nav-meTile
+{
+font: 13px 'Segoe UI WPC','Segoe UI',Tahoma,'Microsoft Sans Serif',Verdana,sans-serif;
+border-right: 1px solid transparent;
+}
+.o365cs-nav-header .o365cs-nav-userName
+{
+vertical-align: middle;
+padding-top: 5px;
+padding-left: 10px;
+display: inline-block;
+}
+.o365cs-nav-header .o365cs-nav-arrowDownImage
+{
+display: inline-block;
+padding-left: 0px;
+padding-right: 10px;
+}
+.o365cs-nav-header .o365cs-nav-menu
+{
+border-right: 1px solid transparent;
+}
+.o365cs-nav-header .o365cs-nav-navIcon
+{
+padding: 4px 3px 0px 3px;
+border-right: 1px solid transparent;
+}
+.o365cs-nav-header .o365cs-nav-menuHovered,
+.o365cs-nav-header .o365cs-nav-menuOpen
+{
+border-right: 1px solid #DEDEDE;
+}
+.o365cs-nav-navItem,
+.o365cs-nav-navIcon,
+.o365cs-nav-headerButton
+{
+/* borrowed from button */
+background: transparent;
+}
+.o365cs-nav-header .o365cs-nav-topbarLinkNoMenu,
+.o365cs-nav-header .o365cs-nav-topbarLinkNoMenu:hover
+{
+background-color: transparent !important;
+border-color: transparent !important;
+}
+.o365cs-nav-headerContextMenu .o365cs-contextMenuInactiveItem
+{
+cursor: default !important;
+}
+.o365cs-nav-header .o365cs-navIconWidth
+{
+width: 30px;
+}
+.o365cs-nav-header .o365cs-activeLinkIndicator
+{
+display:inline-block;
+margin-left:-50%;
+position:absolute;
+top:22px;
+z-index:200;
+border: 4px solid;
+border-left-color: transparent !important;
+border-top-color: transparent !important;
+border-right-color: transparent !important;
+}
+.o365cs-nav-header .o365cs-nav-menuOpen .o365cs-activeLinkIndicator
+{
+visibility: hidden;
+}
+/***************** end of O365ShellCore.CSS **************************/
+/*
+**************** O365ShellCommon.CSS **************************
+* NOTE 1: This file contains common CSS for common shell. Only add style here if it is needed by ShellCore controls across all flavours (desktop, twide, tnarrow)
+*/
+/* o365cs is a base CSS class to be used on all root common shell elements */
+/*                                                            _
+.._____                            _                _       (   )  ______             _
+.|_   _|                          (_)              | |       | /  |  ____|           | |
+...| |   ___  ___   _ __   ___     _  _ __       __| |  __ _ |/   | |__  ___   _ __  | |_
+...| |  / __|/ _ \ | '_ \ / __|   | || '_ \     / _` | / _` |     |  __|/ _ \ | '_ \ | __|
+.._| |_| (__| (_) || | | |\__ \   | || | | |   | (_| || (_| |     | |  | (_) || | | || |_
+.|_____|\___|\___/ |_| |_||___/   |_||_| |_|    \__,_| \__,_|     |_|   \___/ |_| |_| \__|
+*/
+@font-face {
+font-family: 'o365Icons';
+src: url('O365Icons.eot');
+src: url('O365Icons.eot') format('embedded-opentype'),
+url('O365Icons.woff') format('woff'),
+url('O365Icons.ttf') format('truetype'),
+url('O365Icons.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+.wf-family-o365
+{
+font-family: 'o365Icons';
+}
+.wf-o365-x18
+{
+font-size: 18px;
+}
+[data-icon]:before
+{
+content: attr(data-icon);
+}
+.wf-o365-circle:before
+{
+content: '\e000';
+}
+.wf-o365-fillcircle:before
+{
+content: '\e001';
+}
+.wf-o365-placeholder:before
+{
+content: '\e002';
+}
+.wf-o365-star:before
+{
+content: '\e003';
+}
+.wf-o365-plus:before
+{
+content: '\e004';
+}
+.wf-o365-minus:before
+{
+content: '\e005';
+}
+.wf-o365-question:before
+{
+content: '\e006';
+}
+.wf-o365-exclamation:before
+{
+content: '\e007';
+}
+.wf-o365-people:before
+{
+content: '\e008';
+}
+.wf-o365-mail:before
+{
+content: '\e009';
+}
+.wf-o365-circleinfo:before
+{
+content: '\e00a';
+}
+.wf-o365-circleexclamation:before
+{
+content: '\e00b';
+}
+.wf-o365-circlecross:before
+{
+content: '\e00c';
+}
+.wf-o365-mailread:before
+{
+content: '\e00d';
+}
+.wf-o365-bell:before
+{
+content: '\e010';
+}
+.wf-o365-calendar:before
+{
+content: '\e011';
+}
+.wf-o365-scheduling:before
+{
+content: '\e012';
+}
+.wf-o365-event:before
+{
+content: '\e013';
+}
+.wf-o365-folder:before
+{
+content: '\e014';
+}
+.wf-o365-document:before
+{
+content: '\e015';
+}
+.wf-o365-cloud:before
+{
+content: '\e016';
+}
+.wf-o365-chat:before
+{
+content: '\e017';
+}
+.wf-o365-door:before
+{
+content: '\e018';
+}
+.wf-o365-list:before
+{
+content: '\e019';
+}
+.wf-o365-week:before
+{
+content: '\e01a';
+}
+.wf-o365-workweek:before
+{
+content: '\e01b';
+}
+.wf-o365-day:before
+{
+content: '\e01c';
+}
+.wf-o365-move:before
+{
+content: '\e01d';
+}
+.wf-o365-panel:before
+{
+content: '\e01e';
+}
+.wf-o365-popout:before
+{
+content: '\e01f';
+}
+.wf-o365-hamburger:before
+{
+content: '\e020';
+}
+.wf-o365-home:before
+{
+content: '\e021';
+}
+.wf-o365-sites:before
+{
+content: '\e022';
+}
+.wf-o365-phone:before
+{
+content: '\e023';
+}
+.wf-o365-send:before
+{
+content: '\e024';
+}
+.wf-o365-save:before
+{
+content: '\e025';
+}
+.wf-o365-delete:before
+{
+content: '\e026';
+}
+.wf-o365-edit:before
+{
+content: '\e027';
+}
+.wf-o365-flag:before
+{
+content: '\e028';
+}
+.wf-o365-reply:before
+{
+content: '\e029';
+}
+.wf-o365-miniatures:before
+{
+content: '\e02a';
+}
+.wf-o365-voicemail:before
+{
+content: '\e02b';
+}
+.wf-o365-play:before
+{
+content: '\e02c';
+}
+.wf-o365-pause:before
+{
+content: '\e02d';
+}
+.wf-o365-onlinemeetingadd:before
+{
+content: '\e02e';
+}
+.wf-o365-onlinemeetingjoin:before
+{
+content: '\e02f';
+}
+.wf-o365-replyall:before
+{
+content: '\e030';
+}
+.wf-o365-attachment:before
+{
+content: '\e031';
+}
+.wf-o365-circleminus:before
+{
+content: '\e032';
+}
+.wf-o365-pin:before
+{
+content: '\e033';
+}
+.wf-o365-refresh:before
+{
+content: '\e034';
+}
+.wf-o365-gear:before
+{
+content: '\e035';
+}
+.wf-o365-smiley:before
+{
+content: '\e036';
+}
+.wf-o365-info:before
+{
+content: '\e037';
+}
+.wf-o365-lock:before
+{
+content: '\e038';
+}
+.wf-o365-search:before
+{
+content: '\e039';
+}
+.wf-o365-reversedquestion:before
+{
+content: '\e03a';
+}
+.wf-o365-notrecurring:before
+{
+content: '\e03b';
+}
+.wf-o365-checkbox:before
+{
+content: '\e03f';
+}
+.wf-o365-tasks:before
+{
+content: '\e040';
+}
+.wf-o365-check:before
+{
+content: '\e041';
+}
+.wf-o365-cross:before
+{
+content: '\e042';
+}
+.wf-o365-thumbdown:before
+{
+content: '\e043';
+}
+.wf-o365-thumbup:before
+{
+content: '\e044';
+}
+.wf-o365-ellipsis:before
+{
+content: '\e045';
+}
+.wf-o365-bullet:before
+{
+content: '\e046';
+}
+.wf-o365-uparrow:before
+{
+content: '\e047';
+}
+.wf-o365-downarrow:before
+{
+content: '\e048';
+}
+.wf-o365-leftarrow:before
+{
+content: '\e049';
+}
+.wf-o365-rightarrow:before
+{
+content: '\e04a';
+}
+.wf-o365-download:before
+{
+content: '\e04b';
+}
+.wf-o365-directions:before
+{
+content: '\e04c';
+}
+.wf-o365-upcarat:before
+{
+content: '\e051';
+}
+.wf-o365-downcarat:before
+{
+content: '\e052';
+}
+.wf-o365-leftcarat:before
+{
+content: '\e053';
+}
+.wf-o365-rightcarat:before
+{
+content: '\e054';
+}
+.wf-o365-officelogo:before
+{
+content: '\e055';
+}
+.wf-o365-o365logo:before
+{
+content: '\e056';
+}
+.wf-o365-o365logopreview:before
+{
+content: '\e057';
+}
+.wf-o365-upcaratleft:before
+{
+content: '\e05a';
+}
+.wf-o365-upcaratright:before
+{
+content: '\e05b';
+}
+.wf-o365-downcaratleft:before
+{
+content: '\e05c';
+}
+.wf-o365-downcaratright:before
+{
+content: '\e05d';
+}
+.wf-o365-appslogo:before
+{
+content: '\e060';
+}
+.wf-o365-officestorelogo:before
+{
+content: '\e061';
+}
+.wf-o365-outlooklogo:before
+{
+content: '\e062';
+}
+.wf-o365-projectlogo:before
+{
+content: '\e063';
+}
+.wf-o365-yammerlogo:before
+{
+content: '\e064';
+}
+.wf-o365-crmlogo:before
+{
+content: '\e065';
+}
+.wf-o365-partner:before
+{
+content: '\e080';
+}
+.wf-o365-admin:before
+{
+content: '\e081';
+}
+.wf-o365-gallatinlogo:before
+{
+content: '\e082';
+}
+.wf-o365-mslogo:before
+{
+content: '\e083';
+}
+.wf-o365-reactivate:before
+{
+content: '\e084';
+}
+.wf-o365-sort:before
+{
+content: '\e085';
+}
+.wf-o365-addcontact:before
+{
+content: '\e086';
+}
+.wf-o365-upchevron:before
+{
+content: '\e087';
+}
+.wf-o365-downchevron:before
+{
+content: '\e088';
+}
+.wf-o365-leftchevron:before
+{
+content: '\e089';
+}
+.wf-o365-rightchevron:before
+{
+content: '\e08a';
+}
+.wf-o365-powerbilogo:before
+{
+content: '\e08b';
+}
+.wf-o365-joingroup:before
+{
+content: '\e08c';
+}
+.wf-o365-newsfeed:before
+{
+content: '\e08d';
+}
+.wf-o365-book:before
+{
+content: '\e08e';
+}
+.wf-o365-link:before
+{
+content: '\e08f';
+}
+.wf-o365-upchevrons:before
+{
+content: '\e090';
+}
+.wf-o365-downchevrons:before
+{
+content: '\e091';
+}
+.wf-o365-leftchevrons:before
+{
+content: '\e092';
+}
+.wf-o365-rightchevrons:before
+{
+content: '\e093';
+}
+.wf-o365-clutter:before
+{
+content: '\e09a';
+}
+.wf-o365-notclutter:before
+{
+content: '\e09b';
+}
+.wf-o365-print:before
+{
+content: '\e100';
+}
+.wf-o365-room:before
+{
+content: '\e101';
+}
+.wf-o365-post:before
+{
+content: '\e102';
+}
+.wf-o365-hideemail:before
+{
+content: '\e103';
+}
+.wf-o365-touchmode:before
+{
+content: '\e104';
+}
+.wf-o365-time:before
+{
+content: '\e105';
+}
+.wf-o365-o365gallatinlogo:before
+{
+content: '\e056';
+font-size: 22px;
+}
+.wf-o365-o365gallatinlogopreview:before
+{
+content: '\e057';
+font-size: 22px;
+}
+.wf-o365-o365gallatinlogopreview:after,
+.wf-o365-o365gallatinlogo:after
+{
+content: '\e082';
+font-size: 18px;
+}
+.header-downcarat
+{
+height: 25px;
+width: 20px;
+}
+/*
+..._____      _
+../ ____|    | |
+.| |     ___ | | ___  _ __ ___
+.| |    / _ \| |/ _ \| '__/ __|
+.| |___| (_) | | (_) | |  \__ \
+..\_____\___/|_|\___/|_|  |___/
+*/
+.o365cs-nav-header .o365cs-nav-leftAlign
+{
+background-color: #0072C6;
+}
+.o365cs-nav-header .o365cs-nav-headerRegion
+{
+background-color: #0072C6;
+}
+.o365cs-p-c, .o365cs-p-ch:hover,
+.o365cs-nav-header .o365cs-p-c,
+.o365cs-nav-header .o365cs-p-ch:hover
+{
+color: #0072C6;
+}
+.o365cs-p-bg, .o365cs-p-bgh:hover,
+.o365cs-nav-header .o365cs-p-bg,
+.o365cs-nav-header .o365cs-p-bgh:hover,
+.o365cs-nav-header.o365cs-p-bg
+{
+background-color: #0072C6;
+}
+.o365cs-p-b, .o365cs-p-bh:hover,
+.o365cs-nav-header .o365cs-p-b,
+.o365cs-nav-header .o365cs-p-bh:hover
+{
+border-color: #0072C6;
+}
+.o365cs-s-c, .o365cs-s-ch:hover,
+.o365cs-nav-header .o365cs-s-c,
+.o365cs-nav-header .o365cs-s-ch:hover
+{
+color: #2A8DD4;
+}
+.o365cs-s-bg, .o365cs-s-bgh:hover,
+.o365cs-nav-header .o365cs-s-bg,
+.o365cs-nav-header .o365cs-s-bgh:hover
+{
+background-color: #2A8DD4;
+}
+.o365cs-s-b, .o365cs-s-bh:hover,
+.o365cs-nav-header .o365cs-s-b,
+.o365cs-nav-header .o365cs-s-bh:hover
+{
+border-color: #2A8DD4;
+}
+.o365cs-t-c, .o365cs-t-ch:hover,
+.o365cs-nav-header .o365cs-t-c,
+.o365cs-nav-header .o365cs-t-ch:hover,
+.o365cs-nav-headerContextMenu .o365cs-contextMenuInactiveItem
+{
+color: #92C0E0;
+}
+.o365cs-t-bg, .o365cs-t-bgh:hover,
+.o365cs-nav-header .o365cs-t-bg,
+.o365cs-nav-header .o365cs-t-bgh:hover
+{
+background-color: #92C0E0;
+}
+.o365cs-t-b, .o365cs-t-bh:hover,
+.o365cs-nav-header .o365cs-t-b,
+.o365cs-nav-header .o365cs-t-bh:hover
+{
+border-color: #92C0E0;
+}
+.o365cs-nw-c, .o365cs-nw-ch:hover,
+.o365cs-nav-header .o365cs-nw-c,
+.o365cs-nav-header .o365cs-nw-ch:hover,
+.o365cs-nav-header .o365cs-topnavLink
+{
+color: #FFF;
+}
+.o365cs-nw-bg, .o365cs-nw-bgh:hover,
+.o365cs-nav-header .o365cs-nw-bg,
+.o365cs-nav-header .o365cs-nw-bgh:hover,
+.o365cs-nav-headerContextMenu .o365cs-contextMenu
+{
+background-color: #FFF;
+}
+.o365cs-nw-b, .o365cs-nw-bh:hover,
+.o365cs-nav-header .o365cs-nw-b,
+.o365cs-nav-header .o365cs-nw-bh:hover
+{
+border-color: #FFF;
+}
+.o365cs-nb-c, .o365cs-nb-ch:hover,
+.o365cs-nav-header .o365cs-nb-c,
+.o365cs-nav-header .o365cs-nb-ch:hover
+{
+color: #000;
+}
+.o365cs-nb-bg, .o365cs-nb-bgh:hover,
+.o365cs-nav-header .o365cs-nb-bg,
+.o365cs-nav-header .o365cs-nb-bgh:hover
+{
+background-color: #000;
+}
+.o365cs-nb-b, .o365cs-nb-bh:hover,
+.o365cs-nav-header .o365cs-nb-b,
+.o365cs-nav-header .o365cs-nb-bh:hover
+{
+border-color: #000;
+}
+.o365cs-nl1-c, .o365cs-nl1-ch:hover,
+.o365cs-nav-header .o365cs-nl1-c,
+.o365cs-nav-header .o365cs-nl1-ch:hover
+{
+color: rgb(243,243,243); /* IE8 fallback */
+}
+.o365cs-nl1-c, .o365cs-nl1-ch:hover,
+.o365cs-nav-header .o365cs-nl1-c,
+.o365cs-nav-header .o365cs-nl1-ch:hover
+{
+color: rgba(239,239,239,0.78);
+}
+.o365cs-nl1-bg, .o365cs-nl1-bgh:hover,
+.o365cs-nav-header .o365cs-nl1-bg,
+.o365cs-nav-header .o365cs-nl1-bgh:hover
+{
+background-color: rgb(243,243,243); /* IE8 fallback */
+}
+.o365cs-nl1-bg, .o365cs-nl1-bgh:hover,
+.o365cs-nav-header .o365cs-nl1-bg,
+.o365cs-nav-header .o365cs-nl1-bgh:hover
+{
+background-color: rgba(239,239,239,0.78);
+}
+.o365cs-nl1-b, .o365cs-nl1-bh:hover,
+.o365cs-nav-header .o365cs-nl1-b,
+.o365cs-nav-header .o365cs-nl1-bh:hover
+{
+border-color: rgb(243,243,243); /* IE8 fallback */
+}
+.o365cs-nl1-b, .o365cs-nl1-bh:hover,
+.o365cs-nav-header .o365cs-nl1-b,
+.o365cs-nav-header .o365cs-nl1-bh:hover
+{
+border-color: rgba(239,239,239,0.78);
+}
+.o365cs-nav-header .o365cs-spo-topbarHover
+{
+color: #000;
+background-color: #FFF;
+}
+.o365cs-nav-headerContextMenu .o365cs-contextMenuItem
+{
+color: #000;
+}
+.o365cs-nav-headerContextMenu .o365cs-contextMenuItemHover
+{
+background-color: #CDE6F7;
+}
+/***************** end of O365ShellCommon.CSS **************************/

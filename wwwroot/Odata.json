@@ -1,0 +1,384 @@
+{
+  "@base": "https://projectmadeeasy.sharepoint.com/sites/Development/_api/",
+  "id": "e917d72b-6939-4327-be0b-7eb5b0c1a9fb",
+  "title": null,
+  "updated": "2023-08-14T13:16:33Z",
+  "value": [
+    {
+      "Display":true,
+	  "Formula":"Greater than or equal to|ge",
+	  "FormulaNumber": 1,
+      "ID": 8,
+      "Id": 8,
+      "ProjectFilter":"red",
+      "ProjectFilterValue": "115",
+      "Title": "Allocation"
+	},{
+	  "Display":true,
+	  "Formula":null,
+	  "FormulaNumber": 1,
+      "ID": 18,
+      "Id": 18,
+      "ProjectFilter":"Primary Job Role",
+      "ProjectFilterValue": null,
+      "Title": "Resource Display Field"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 20,
+      "Id": 20,
+      "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Chat"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 21,
+      "Id": 21,
+      "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Delete"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 24,
+      "Id": 24,
+      "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Non Projects"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 26,
+      "Id": 26,
+      "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Max Units"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 27,
+      "Id": 27,
+      "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Allocation Commitment"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 28,
+      "Id": 28,
+      "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Allocation Rejection"
+	},{
+	  "Display": true,
+      "Formula": "Less than|lt",
+      "FormulaNumber": 5,
+      "ID": 30,
+      "Id": 30,
+      "ProjectFilter": "purple",
+      "ProjectFilterValue": "30",
+      "Title": "Allocation"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 1,
+      "ID": 31,
+      "Id": 31,
+      "ProjectFilter": "Primary Job Role",
+      "ProjectFilterValue": null,
+      "Title": "Resource Filter"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 4,
+      "ID": 32,
+      "Id": 32,
+	  "ProjectFilter": "Resource Departments",
+      "ProjectFilterValue": null,
+      "Title": "Resource Filter"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 2,
+      "ID": 33,
+      "Id": 33,
+      "ProjectFilter": "Location",
+      "ProjectFilterValue": null,
+      "Title": "Resource Filter"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 3,
+      "ID": 34,
+      "Id": 34,
+	  "ProjectFilter": "ResourceBookingType",
+      "ProjectFilterValue": null,
+      "Title": "Resource Filter"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 7,
+      "ID": 35,
+      "Id": 35,
+	  "ProjectFilter": "Resource Classification",
+      "ProjectFilterValue": null,
+      "Title": "Resource Filter"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 39,
+      "Id": 39,
+	  "ProjectFilter": null,
+      "ProjectFilterValue": null,
+      "Title": "Engagement Creation"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 1,
+      "ID": 40,
+      "Id": 40,
+	  "ProjectFilter": "ITRanks",
+      "ProjectFilterValue": null,
+      "Title": "Potential Items Column"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 2,
+      "ID": 48,
+      "Id": 48,
+	  "ProjectFilter": "ResourceCostPerUse",
+      "ProjectFilterValue": null,
+      "Title": "Resource Display Field"
+	},{
+	  "Display": true,
+      "Formula": "Equal to|eq",
+      "FormulaNumber": 1,
+      "ID": 49,
+      "Id": 49,
+	  "ProjectFilter": "Project Status",
+      "ProjectFilterValue": "Draft",
+      "Title": "Potential Ideas Filter"
+	},{
+	  "Display": true,
+      "Formula": "Equal to|eq",
+      "FormulaNumber": 2,
+      "ID": 50,
+      "Id": 50,
+	  "ProjectFilter": "Project Status",
+      "ProjectFilterValue": "Not Started",
+      "Title": "Potential Projects Filter"
+	},{
+	  "Display": false,
+      "Formula": null,
+      "FormulaNumber": 6,
+      "ID": 51,
+      "Id": 51,
+	  "ProjectFilter": "ResourceCostCenter",
+      "ProjectFilterValue": null,
+      "Title": "Resource Display Field"
+	},{
+	  "Display": false,
+      "Formula": null,
+      "FormulaNumber": 3,
+      "ID": 52,
+      "Id": 52,
+	  "ProjectFilter": "ResourceBaseCalendar",
+      "ProjectFilterValue": null,
+      "Title": "Resource Display Field"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 5,
+      "ID": 53,
+      "Id": 53,
+	  "ProjectFilter": "Last Modified ",
+      "ProjectFilterValue": null,
+      "Title": "Resource Display Field"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": 1,
+      "ID": 54,
+      "Id": 54,
+	  "ProjectFilter": "Project Status",
+      "ProjectFilterValue": null,
+      "Title": "Project Display Field"
+	},{
+	  "Display": false,
+      "Formula": null,
+      "FormulaNumber": 4,
+      "ID": 55,
+      "Id": 55,
+	  "ProjectFilter": "CostCtr",
+      "ProjectFilterValue": null,
+      "Title": "Resource Display Field"
+	},{
+	  "Display": true,
+      "Formula": null,
+      "FormulaNumber": null,
+      "ID": 60,
+      "Id": 60,
+	  "ProjectFilter": null,
+      "ProjectFilterValue": "Hours",
+      "Title": "Hours"
+	},{
+	  "Display": true,
+      "Formula": "Greater than|gt",
+      "FormulaNumber": 2,
+      "ID": 61,
+      "Id": 61,
+	  "ProjectFilter": "Yellow",
+      "ProjectFilterValue": "90",
+      "Title": "Allocation"
+	},{
+	  "Display": true,
+"Formula": "Greater than|gt",
+"FormulaNumber": 3,
+"ID": 63,
+"Id": 63,
+"ProjectFilter": "Blue",
+"ProjectFilterValue": "50",
+"Title": "Allocation"
+	},{
+	  "Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 4,
+"ID": 64,
+"Id": 64,
+"ProjectFilter": "green",
+"ProjectFilterValue": "10",
+"Title": "Allocation"
+	},{
+		"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 10,
+"ID": 65,
+"Id": 65,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "12 Proposed",
+"Title": "Project Filter"
+	},{
+		"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 9,
+"ID": 66,
+"Id": 66,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "11 Proposed",
+"Title": "Project Filter"},{
+	"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 8,
+"ID": 68,
+"Id": 68,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "10 Proposed",
+"Title": "Project Filter"
+},{
+	"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 7,
+"ID": 69,
+"Id": 69,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "9 Proposed",
+"Title": "Project Filter"
+},{
+	"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 5,
+"ID": 70,
+"Id": 70,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "7 Proposed",
+"Title": "Project Filter"
+},{
+	"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 6,
+"ID": 71,
+"Id": 71,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "8 Proposed",
+"Title": "Project Filter"
+},{
+	  "Display": true,
+      "Formula": "Equal to|eq",
+      "FormulaNumber": 4,
+      "ID": 72,
+      "Id": 72,
+      "ProjectFilter": "Project Status ",
+      "ProjectFilterValue": "6 Proposed",
+      "Title": "Project Filter"
+	},{
+	  "Display": true,
+      "Formula": "Equal to|eq",
+      "FormulaNumber": 3,
+      "ID": 73,
+      "Id": 73,
+      "ProjectFilter": "Project Status",
+      "ProjectFilterValue": "5 Proposed",
+      "Title":"Project Filter"
+	},{
+	  "Display": true,
+      "Formula": "Equal to|eq",
+      "FormulaNumber": 1,
+      "ID": 74,
+      "Id": 74,
+      "ProjectFilter": "ProjectStatus",
+      "ProjectFilterValue": "Open/Approved",
+      "Title": "Project Filter"
+	},{
+	  "Display": true,
+      "Formula": "Equal to|eq",
+      "FormulaNumber": 2,
+      "ID": 75,
+      "Id": 75,
+      "ProjectFilter":"Project Status",
+      "ProjectFilterValue": "Not Started",
+      "Title": "Project Filter"
+	},{"Display": true,
+"Formula": null,
+"FormulaNumber": 1,
+"ID": 76,
+"Id": 76,
+"ProjectFilter": "ITRanks",
+"ProjectFilterValue": null,
+"Title": "Potential Items Prefix"},{
+	"Display": true,
+"Formula": "Equal to|eq",
+"FormulaNumber": 2,
+"ID": 80,
+"Id": 80,
+"ProjectFilter": "Project Status",
+"ProjectFilterValue": "Pending",
+"Title": "Potential Ideas Filter"
+},{
+	"Display": false,
+"Formula": null,
+"FormulaNumber": null,
+"ID": 81,
+"Id": 81,
+"ProjectFilter": null,
+"ProjectFilterValue": null,
+"Title": "Generic Commitment"
+},{
+	"Display": true,
+"Formula": null,
+"FormulaNumber": null,
+"ID": 82,
+"Id": 82,
+"ProjectFilter": null,
+"ProjectFilterValue": null,
+"Title": "Generic Capacity"
+}
+  ]
+}
