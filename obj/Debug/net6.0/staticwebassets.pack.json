@@ -1,0 +1,781 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PME_Analyzer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PME_Analyzer.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\Odata.json",
+      "PackagePath": "staticwebassets\\Odata.json"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\OdataResource.json",
+      "PackagePath": "staticwebassets\\OdataResource.json"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\1033\\images\\spintl.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\1033\\images\\spintl.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\GetPersonaPhoto.gif",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\GetPersonaPhoto.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\SharePointMetroAppTile.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\SharePointMetroAppTile.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\SiteIcon.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\SiteIcon.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\UserSquiggle.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\UserSquiggle.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\create_defaultgradient.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\create_defaultgradient.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\create_upgradient.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\create_upgradient.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\favicon.ico"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\fbgrad.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\fbgrad.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\fgimg.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\fgimg.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\loadingcirclests16.gif",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\loadingcirclests16.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\menu-down.gif",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\menu-down.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\menu-right.gif",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\menu-right.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\searchresultui.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\searchresultui.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\selbg.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\selbg.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\spcommon (1).png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\spcommon (1).png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\spcommon.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\spcommon.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\spintl.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\spintl.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\tabtitlerowbottombg.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\tabtitlerowbottombg.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\treeviewselected.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\treeviewselected.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\wpadder_graygrad.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\wpadder_graygrad.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\_layouts\\15\\images\\wptphdr.png",
+      "PackagePath": "staticwebassets\\_layouts\\15\\images\\wptphdr.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\2019.2.619.kendo.common.min.css",
+      "PackagePath": "staticwebassets\\css\\2019.2.619.kendo.common.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\2019.2.619.kendo.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\2019.2.619.kendo.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\2019.2.619.kendo.silver.min.css",
+      "PackagePath": "staticwebassets\\css\\2019.2.619.kendo.silver.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\css\\chosen-sprite.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\chosen.min.css",
+      "PackagePath": "staticwebassets\\css\\chosen.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\DejaVuSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\DejaVuSans-Bold.ttf"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\DejaVuSans-Oblique.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\DejaVuSans-Oblique.ttf"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\DejaVuSans.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\DejaVuSans.ttf"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\KendoUIGlyphs.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\KendoUIGlyphs.eot"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\KendoUIGlyphs.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\KendoUIGlyphs.svg"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\KendoUIGlyphs.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\KendoUIGlyphs.ttf"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\KendoUIGlyphs.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\KendoUIGlyphs.woff"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\WebComponentsIcons.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\WebComponentsIcons.eot"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\WebComponentsIcons.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\WebComponentsIcons.ttf"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\fonts\\glyphs\\WebComponentsIcons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphs\\WebComponentsIcons.woff"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\jexcel.css",
+      "PackagePath": "staticwebassets\\css\\jexcel.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\jsuites.css",
+      "PackagePath": "staticwebassets\\css\\jsuites.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\select2.css",
+      "PackagePath": "staticwebassets\\css\\select2.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\jquery.doubleScroll.js",
+      "PackagePath": "staticwebassets\\jquery.doubleScroll.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\jquery.scrollsync.js",
+      "PackagePath": "staticwebassets\\jquery.scrollsync.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\2019.2.619.kendo.all.min.js",
+      "PackagePath": "staticwebassets\\js\\2019.2.619.kendo.all.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\ResourceAnalyzer.js",
+      "PackagePath": "staticwebassets\\js\\ResourceAnalyzer.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\RunGanttReport.js",
+      "PackagePath": "staticwebassets\\js\\RunGanttReport.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\RunGanttReportLatest.js",
+      "PackagePath": "staticwebassets\\js\\RunGanttReportLatest.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\jexcel.js",
+      "PackagePath": "staticwebassets\\js\\jexcel.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\jexcelv4.js",
+      "PackagePath": "staticwebassets\\js\\jexcelv4.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\jsuites.js",
+      "PackagePath": "staticwebassets\\js\\jsuites.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\jsuitesv4.js",
+      "PackagePath": "staticwebassets\\js\\jsuitesv4.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\loadingoverlay.min.js",
+      "PackagePath": "staticwebassets\\js\\loadingoverlay.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\js\\select2.full.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\scrollsync.js",
+      "PackagePath": "staticwebassets\\scrollsync.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\GetPersonaPhoto.gif",
+      "PackagePath": "staticwebassets\\sharePointImg\\GetPersonaPhoto.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\SharePointMetroAppTile.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\SharePointMetroAppTile.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\SiteIcon.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\SiteIcon.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\UserSquiggle.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\UserSquiggle.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\create_defaultgradient.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\create_defaultgradient.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\create_upgradient.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\create_upgradient.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\favicon.ico",
+      "PackagePath": "staticwebassets\\sharePointImg\\favicon.ico"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\fbgrad.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\fbgrad.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\fgimg.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\fgimg.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\loadingcirclests16.gif",
+      "PackagePath": "staticwebassets\\sharePointImg\\loadingcirclests16.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\menu-down.gif",
+      "PackagePath": "staticwebassets\\sharePointImg\\menu-down.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\menu-right.gif",
+      "PackagePath": "staticwebassets\\sharePointImg\\menu-right.gif"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\searchresultui.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\searchresultui.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\selbg.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\selbg.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\spcommon (1).png",
+      "PackagePath": "staticwebassets\\sharePointImg\\spcommon (1).png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\spcommon.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\spcommon.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\spintl.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\spintl.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\tabtitlerowbottombg.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\tabtitlerowbottombg.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\treeviewselected.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\treeviewselected.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\wpadder_graygrad.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\wpadder_graygrad.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointImg\\wptphdr.png",
+      "PackagePath": "staticwebassets\\sharePointImg\\wptphdr.png"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointcss\\PWAStyle.css",
+      "PackagePath": "staticwebassets\\sharePointcss\\PWAStyle.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointcss\\corev15.css",
+      "PackagePath": "staticwebassets\\sharePointcss\\corev15.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointcss\\shell15.css",
+      "PackagePath": "staticwebassets\\sharePointcss\\shell15.css"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\ScriptResource.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\ScriptResource.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\WebResource.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\WebResource.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\ajaxtoolkit.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\ajaxtoolkit.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\blank.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\blank.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\callout.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\callout.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\clientrenderer.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\clientrenderer.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\clienttemplates.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\clienttemplates.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\core.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\core.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\cui.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\cui.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\dragdrop.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\dragdrop.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\followingcommon.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\followingcommon.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\ie55up.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\ie55up.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\init.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\init.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\initstrings.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\initstrings.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\inplview.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\inplview.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\lank.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\lank.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\menu.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\menu.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\mquery.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\mquery.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\offline.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\offline.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\profilebrowserscriptres.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\profilebrowserscriptres.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\quicklaunch.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\quicklaunch.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\require.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\require.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\search.clientcontrols.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\search.clientcontrols.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sharedhovercard.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sharedhovercard.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sharedhovercard.strings.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sharedhovercard.strings.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sharing.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sharing.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\shell15.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\shell15.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.core.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.core.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.init.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.init.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.res.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.res.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.ribbon.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.ribbon.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.runtime.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.runtime.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.search.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.search.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.ui.dialog.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.ui.dialog.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.ui.mylinksribbon.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.ui.mylinksribbon.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.ui.mysitecommon.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.ui.mysitecommon.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.ui.tileview.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.ui.tileview.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sp.userprofiles.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sp.userprofiles.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\spappbarwebpack.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\spappbarwebpack.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sposuitenav.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sposuitenav.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\sposuitenav_bck.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\sposuitenav_bck.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\srch.resources.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\srch.resources.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\strings.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\strings.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\suitelinks.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\suitelinks.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\theming.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\theming.js"
+    },
+    {
+      "Id": "F:\\PME\\DevOps\\PME_Analyzer\\wwwroot\\sharePointjs\\wpadder.js",
+      "PackagePath": "staticwebassets\\sharePointjs\\wpadder.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PME_Analyzer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PME_Analyzer.props",
+      "PackagePath": "build\\PME_Analyzer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PME_Analyzer.props",
+      "PackagePath": "buildMultiTargeting\\PME_Analyzer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PME_Analyzer.props",
+      "PackagePath": "buildTransitive\\PME_Analyzer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
