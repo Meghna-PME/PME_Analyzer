@@ -574,11 +574,7 @@ var ResFilterArr = [];
 var potentialItm_flag = false;
 var potentialItm_Val = '';
 /**DevOps**/
-var testEnv=0;
-if(location.hostname=="projectmadeeasy.sharepoint.com"){
-  testEnv=1;
-}
-if(testEnv==1){
+if (location.hostname == "projectmadeeasy.sharepoint.com") {
   var spUserId = _spPageContextInfo.userId;
   var siteAbsoluteUrl = _spPageContextInfo.siteAbsoluteUrl;
 }else{
@@ -595,18 +591,15 @@ $(document).ready(function () {
     ResFilterArr = [];
     $(".ms-core-listMenu-verticalBox").hide()
     $("#pageTitle").css('display', 'none');
-    if (testEnv = 1) {
-        var urlGetResources = siteAbsoluteUrl + "/_API/ProjectData/Resources";
+    if (location.hostname == "projectmadeeasy.sharepoint.com") {
+      var urlGetResources = siteAbsoluteUrl + "/_API/ProjectData/Resources";
+      var urlM = siteAbsoluteUrl+"/_api/web/lists/getByTitle('RM%20App%20Settings')/items?$top=4998&$select=ID,Formula,FormulaNumber,Title,ProjectFilter,Display,ProjectFilterValue";
     } else { 
-    var urlGetResources = "OdataResource.json";
+      var urlGetResources = "OdataResource.json";
+      var urlM = "Odata.json";
     }
     resGetResources = getAjex(urlGetResources);
-    if (testEnv = 1) {
-        var urlM = siteAbsoluteUrl+"/_api/web/lists/getByTitle('RM%20App%20Settings')/items?$top=4998&$select=ID,Formula,FormulaNumber,Title,ProjectFilter,Display,ProjectFilterValue";
-    } else { 
-        var urlM = "Odata.json"; 
-    }
-  var resM = getAjex(urlM);
+    var resM = getAjex(urlM);
   FotColor = [];
   $.each(resM.value, function (indx, MGrid) {
     /*if(MGrid.Title=='Potential Ideas Filter'){
@@ -665,7 +658,7 @@ $(document).ready(function () {
     return a.FormulaNumber - b.FormulaNumber
   });
   console.log(new Date()+" | 2")
-  if(testEnv=1){
+        if (location.hostname == "projectmadeeasy.sharepoint.com") {
     ExecuteOrDelayUntilScriptLoaded(IsCurrentUserMemberOfGroup, "sp.js");
   }else{
         $(".InfomessageGF").hide()
