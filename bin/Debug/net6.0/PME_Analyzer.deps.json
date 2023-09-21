@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PME_Analyzer/1.0.0": {
+        "runtime": {
+          "PME_Analyzer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PME_Analyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
